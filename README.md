@@ -7,12 +7,7 @@
 
 <br/>
 
-<div align=center>
-<a href="https://www.linkedin.com/in/danamena/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="100" height="100" alt="LinkedIn icon">
-</a>
 
-</div>
 
 </div>
 
