@@ -25,7 +25,7 @@
 ---
 
 ### About me 🧉
-- 🔭 Currently building a Knowledge Base for BAs, networking across the EU & US, and exploring new opportunities.
+- 🔭 Currently building a Knowledge Base for BAs, networking across Europe, and exploring new opportunities.
 - 💙 Passionate about leveraging technology for social and environmental impact.
 - 🌱 Always learning something new to keep my mind sharp, busy, and healthy.
 
