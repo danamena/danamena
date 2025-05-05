@@ -25,7 +25,7 @@
 ---
 
 ### About me 🧉
-- 🔭 Currently building a Knowledge Base for BAs, networking across Europe, and exploring new opportunities.
+- 🔭 Currently building a Knowledge Base for BAs, networking, and exploring new opportunities.
 - 💙 Passionate about leveraging technology for social and environmental impact.
 - 🌱 Always learning something new to keep my mind sharp, busy, and healthy.
 
@@ -41,7 +41,7 @@
 
 <div align=center>
 <p><b>If you have any questions, want to connect, or just feel like saying Hi, let's chat!.</b></p>
-<p>With love, Dana 💙
+<p> Dana, 
 Your super BA friend 🦸‍♀️🚀</p>
 </div>
 
