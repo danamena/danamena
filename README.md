@@ -25,9 +25,11 @@
 ---
 
 ### About me 🧉
-- 🔭 Currently building a Knowledge Base for BAs, networking, and exploring new opportunities.
+- 🔭 Building a Knowledge Base for BAs, networking, and exploring new opportunities.
 - 💙 Passionate about leveraging technology for social and environmental impact.
-- 🌱 Always learning something new to keep my mind sharp, busy, and healthy.
+- 🎨 Also passionate about photography, designing and writing. 📸✍️ (My inner child is definitely an artist at heart!)
+- 🌱 Nature Nerd. (mmm...Nature lover sounds better, eh?)
+- 🤓 Always learning something new!
 
 
 ---
