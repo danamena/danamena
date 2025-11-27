@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=false&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;My+expertise+is+in+..." alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=true&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;;👩‍💻Business+Analyst;📄Document+Management;🧹Backlog+Management;👩‍🏫Customer+Guidance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=true&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;;👩‍💻Business+Analyst;📄Document+Management;🧹Backlog+Management;✍️Content+Creator;👩‍🏫Customer+Guidance" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -43,8 +43,8 @@
 
 <div align=center>
 <p><b>If you have any questions, want to connect, or just feel like saying Hi, let's chat!.</b></p>
-<p> Dana, 
-Your super BA friend 🦸‍♀️🚀</p>
+<p> Dana 
+</p>
 </div>
 
 ---
