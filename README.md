@@ -17,23 +17,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=false&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;My+expertise+is+in+..." alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=true&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;;👩‍💻Business+Analyst;📄Document+Management;🧹Backlog+Management;✍️Content+Creation;👩‍🏫Customer+Guidance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=true&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;;👩‍💻Business+Analyst;📄Document+Management;⚙️Process+Improvement;✍️Content+Creation;👩‍🏫Customer+Guidance" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ---
 
-### About me 🧉
-- 🔭 Building a Knowledge Base for BAs, networking, and exploring new opportunities.
+### About Me 🧉
 - 💙 Passionate about leveraging technology for social and environmental impact.
-- 🎨 Also passionate about photography, designing and writing. 📸✍️ (My inner child is definitely an artist at heart!)
-- 🌱 Nature Nerd. (mmm...Nature lover sounds better, eh?)
+- 🎨 Also passionate about photography, designing, and writing. (My inner child is definitely an artist at heart!)
+- 🌱 A totally Nature Nerd! (mmm... Nature lover sounds better, eh?)
+- 🔭 Building a Knowledge Base for BAs, networking, and exploring new opportunities.
 - 🤓 Always learning something new!
 
 
 ---
-### Connect
+### Let's Connect
 
 <div align=center>
 <a href="https://www.linkedin.com/in/danamena/" target="_blank">
